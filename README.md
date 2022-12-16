@@ -5,7 +5,7 @@
 /api?username=okasyun&theme=onedark&show_icons=ture"/>
 </p>
 
-[![Top Langs](https://github-readme-stats-okasyun0326.vercel.app/api/top-langs/?username=okasyun
+[![Top Langs](https://github-readme-stats-tau-gold-23.vercel.app/api/top-langs/?username=okasyun
 )](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
